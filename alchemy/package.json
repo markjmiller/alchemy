@@ -19,6 +19,7 @@
     "./cloudflare": "./lib/cloudflare/index.js",
     "./dns": "./lib/dns/index.js",
     "./esbuild": "./lib/esbuild/index.js",
+    "./example-platform": "./lib/example-platform/index.js",
     "./fs": "./lib/fs/index.js",
     "./github": "./lib/github/index.js",
     "./neon": "./lib/neon/index.js",
